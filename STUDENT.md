@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: https://github.com/NguyenTrongBinh2004
 - Repo bài nộp (URL): https://github.com/NguyenTrongBinh2004/K5-L2-Day08-2A202603099-NguyenTrongBinh-AI-Assisted-Labeling
-- Commit chốt bài (hash): <<hash commit cuối, lấy bằng `git rev-parse HEAD` sau khi push>>
+- Commit chốt bài (hash): 9ff4586f81a281a54732aa6d3d07bb40bb1b7e23
 - Máy: Windows 11 (bản 10.0.26100), RAM 8 GB, chạy WSL2 Ubuntu 26.04; không dùng GPU cục bộ, model chạy trên Google Colab (GPU T4, CUDA)
 - CVAT (Docker): v2.81.0
 
