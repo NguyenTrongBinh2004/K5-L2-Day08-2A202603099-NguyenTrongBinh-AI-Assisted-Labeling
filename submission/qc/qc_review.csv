@@ -1,6 +1,16 @@
 image,object_id,error_type,reviewer,note
-img_003.jpg,,,,
-img_006.jpg,,,,
-img_014.jpg,,,,
-img_031.jpg,,,,
-img_035.jpg,,,,
+img_003.jpg,13,thua,Nguyen Trong Binh,"2 box three_wheeler cho 1 xe ba gac: #3 om ca xe, #13 nam gon trong #3"
+img_031.jpg,467,thua,Nguyen Trong Binh,"box person tren mu cam treo o quay hang, khong phai nguoi"
+img_031.jpg,468,sai_vi_tri_kich_thuoc,Nguyen Trong Binh,"box bicycle chi om banh truoc, thieu khung banh sau va gio"
+img_031.jpg,,bo_sot,Nguyen Trong Binh,"nguoi dan ong ngoi ghe xanh ben phai khong co box person"
+img_006.jpg,96,sai_lop,Nguyen Trong Binh,"nhan car tren mai hien khach san phia xa, khong phai o to"
+img_006.jpg,81,sai_lop,Nguyen Trong Binh,"nhan bicycle chong len ghe nhua va nguoi ngoi goc phai, khong co xe dap"
+img_006.jpg,86,sai_vi_tri_kich_thuoc,Nguyen Trong Binh,"box bicycle chi om nua sau xe dap, thieu banh truoc va ghi dong"
+img_006.jpg,97,sai_vi_tri_kich_thuoc,Nguyen Trong Binh,"box motorbike chi om mot manh nho phia sau nguoi di bo, khong ro xe"
+img_014.jpg,,bo_sot,Nguyen Trong Binh,"xe may Honda Astrea bien 66-F1 7741 o goc duoi ben phai khong co box motorbike"
+img_014.jpg,,bo_sot,Nguyen Trong Binh,"xe may mau do dung sat le phai phia tren xe 66-F1 khong co box motorbike"
+img_014.jpg,155,sai_vi_tri_kich_thuoc,Nguyen Trong Binh,"box motorbike qua rong, om tu xe 51-R1 8738 sang tan xe do ben le phai"
+img_014.jpg,145,sai_vi_tri_kich_thuoc,Nguyen Trong Binh,"box person om ca quang ganh va thung hang hai ben thay vi chi om nguoi"
+img_035.jpg,513,thua,Nguyen Trong Binh,"trung box person voi #529 cho cung mot nguoi dan ong ao xam ben trai"
+img_035.jpg,530,sai_lop,Nguyen Trong Binh,"nhan three_wheeler tren mai hien/bien hieu phia xa, khong phai xe ba gac"
+img_035.jpg,,bo_sot,Nguyen Trong Binh,"xe xich lo dang chay giua duong ben phai chi co box nho ben trong, thieu box bao tron ca xe"
